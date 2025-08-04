@@ -1,7 +1,7 @@
 # RVM Deposit & Rewards API
 
 This is a token-authenticated Django REST API for logging recyclable material deposits and calculating reward points based on material type.
-Live API: https://rvm-rewards.onrender.com
+- Live API: https://rvm-rewards.onrender.com
 
 
 ---
